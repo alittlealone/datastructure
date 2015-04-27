@@ -51,7 +51,7 @@ void Magician(linklist head) {
 			p = p->next;
 			if (p->data != 0) {
 				p->next;
-				j--;
+				j--;  //ºöÂÔ±¾´ÎÒÆ¶¯
 			}
 		}
 
